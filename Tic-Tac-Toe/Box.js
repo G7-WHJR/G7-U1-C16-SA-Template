@@ -1,4 +1,3 @@
-//class with all of the color box info
 class Box {
   
     constructor() {
